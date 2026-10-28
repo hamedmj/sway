@@ -1,0 +1,11 @@
+npm install -g @vegamo/deepcode-cli
+
+{
+  "env": {
+    "MODEL": "deepseek-v4-pro",
+    "BASE_URL": "https://api.deepseek.com",
+    "API_KEY": "sk-..."
+  },
+  "thinkingEnabled": true,
+  "reasoningEffort": "max"
+}
